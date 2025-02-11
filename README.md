@@ -25,16 +25,16 @@ This Business Data Dashboard is an internal tool designed to analyze and visuali
 📍 Installation & Setup
 
 Clone the repository:
-git clone https://github.com/yourusername/business-data-dashboard.git
+git clone https://github.com/khyal-d/buisness_dashboard.git
 
 Navigate to the project directory:
-cd business-data-dashboard
+cd buisness_dashboard
 
 Install dependencies:
 pip install -r requirements.txt
 
 Run the application:
-python app.py
+python main.py
 
 
 
