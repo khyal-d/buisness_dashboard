@@ -1,7 +1,7 @@
 📈 Business Data Dashboard
 
 📚 Project Overview:
-This Business Data Dashboard is an internal tool designed to analyze and visualize customer transaction data to identify target customer groups across various demographic locations. The insights generated help businesses implement personalized marketing strategies efficiently.
+Welcome to my project, where I developed a Business Data Dashboard to analyze and visualize 1M+ customer transactions for targeted marketing. I implemented data preprocessing, EDA, SQL database storage, and a FastAPI + Streamlit WebUI for statistical insights. This tool enables easy data filtering and reduces manual effort from ~2 hours to ~10 minutes.
 
 
 🌟 Key Features:
