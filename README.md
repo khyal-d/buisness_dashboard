@@ -4,11 +4,17 @@
 This Business Data Dashboard is an internal tool designed to analyze and visualize customer transaction data to identify target customer groups across various demographic locations. The insights generated help businesses implement personalized marketing strategies efficiently.
 
 🌟 Key Features:
+
 ✨ Customer Segmentation: Identifies key customer groups based on demographic and transactional data.
+
 🌐 Country & Customer-Level Insights: Granular analysis for better decision-making.
+
 📊 Data Preprocessing: Cleans raw data and creates meaningful business features.
+
 🏢 SQL Database Integration: Efficient storage and fast data retrieval.
+
 💻 Interactive Web UI: Built with FastAPI and Streamlit for intuitive data visualization and easy access to filtered feature data.
+
 ⏳ Improved Efficiency: Reduces manual effort from ~2 hours to ~10 minutes for the business team.
 
 📝 Tech Stack & Tools:
@@ -32,7 +38,9 @@ python app.py
 🚀 Future Enhancements
 
 ✅ Implement machine learning-based predictive analytics.
+
 ✅ Enhance UI/UX with additional filters and visualization features.
+
 ✅ Integrate real-time data updates.
 
 ✨ Contributing
