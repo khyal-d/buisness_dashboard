@@ -3,6 +3,7 @@
 📚 Project Overview:
 This Business Data Dashboard is an internal tool designed to analyze and visualize customer transaction data to identify target customer groups across various demographic locations. The insights generated help businesses implement personalized marketing strategies efficiently.
 
+
 🌟 Key Features:
 
 ✨ Customer Segmentation: Identifies key customer groups based on demographic and transactional data.
@@ -17,8 +18,9 @@ This Business Data Dashboard is an internal tool designed to analyze and visuali
 
 ⏳ Improved Efficiency: Reduces manual effort from ~2 hours to ~10 minutes for the business team.
 
-📝 Tech Stack & Tools:
-Python, SQL, streamlit, fastAPI, pandas, matplotlib, wordcloud.
+📝 Tech Stack & Tools:Python, SQL, streamlit, fastAPI, pandas, matplotlib, wordcloud.
+
+
 
 📍 Installation & Setup
 
@@ -35,6 +37,9 @@ Run the application:
 python app.py
 
 
+
+
+
 🚀 Future Enhancements
 
 ✅ Implement machine learning-based predictive analytics.
@@ -42,6 +47,8 @@ python app.py
 ✅ Enhance UI/UX with additional filters and visualization features.
 
 ✅ Integrate real-time data updates.
+
+
 
 ✨ Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
